@@ -1,0 +1,5 @@
+cohere
+dotenv
+"mcp[cli]"
+python-docx
+PyMuPDF
